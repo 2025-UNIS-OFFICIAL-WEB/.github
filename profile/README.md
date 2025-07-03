@@ -1,9 +1,8 @@
 # UNIS OFFICIAL WEBSITE
 
-> be UNIque, work in UNIson.
-
 ![Image](https://github.com/user-attachments/assets/daad5541-806c-42d1-b19f-ff6ed3ca8466)
 이화여자대학교 중앙실전창업학회 **UNIS**의 공식 웹사이트입니다.
+> be UNIque, work in UNIson.
 
 
 ## 🛠 프로젝트 소개
