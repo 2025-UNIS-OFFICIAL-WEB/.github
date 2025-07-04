@@ -44,8 +44,23 @@ UNIS 공식 웹사이트는 학회의 철학과 활동을 외부에 소개하고
 
 
 ## 🗂 프로젝트 구조
+
+### Front
 ```
 
+```
+### Back
+```
+📦unis-backend
+ ┣ 📂src
+ ┣ 📂config
+ ┣ 📂global
+ ┣ 📂controller
+ ┣ 📂service
+ ┣ 📂domain
+ ┣ 📂repository
+ ┣ 📂dto
+ ┗ 📜UnisWebServerBackApplication.java
 ```
 
 
